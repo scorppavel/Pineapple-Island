@@ -1,0 +1,82 @@
+.wrapper {
+    max-width: 1572px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #fff;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #232323;
+}
+
+.header {
+    display: flex;
+}
+
+.logo {
+    font-family: 'Playfair Display', serif;
+    width: 148px;
+    font-size: 32px;
+    color: #0E204E;
+    margin-left: 100px;
+    padding-top: 50px;
+}
+
+.mainmenu {
+    padding-top: 81px;
+    margin-left: 496px;
+}
+
+.mainmenu li {
+    margin-right: 87px;
+}
+
+.firstButton {
+    padding-top: 68px;
+    margin: 0 0 0 150px;
+}
+
+button {
+    color: #fff;
+    background-color: #0E204E;
+    width: 188px;
+    height: 50px;
+    font-family: 'Manrope regular';
+    font-size: 20px;
+}
+
+.FirstDescription {
+    color: #fff;
+    background-color: #0E204E;
+    width: 796px;
+    height: 496px;
+    font-family: 'Playfair Display', serif;
+    font-size: 64px;
+    margin: 157px 0 0 100px;
+    
+}
+
+.DescriptionText {
+    padding: 79px 54px 162px 89px;
+}
+
+.textSecond {
+    padding-top: 22px;
+    font-family: 'Manrope regular';
+    font-size: 20px;
+}
+
+.images {
+    background-image: url(/assets/Image/ImageOne.png); 
+}
