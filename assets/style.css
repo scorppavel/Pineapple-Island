@@ -83,3 +83,39 @@ button {
     font-size: 20px;
 }
 
+.aboutIsland {
+	display: flex;
+	padding-top: 250px;
+}
+
+.headingText {
+	font-family: 'Playfair Display', bold;
+	font-size: 60px;
+	color: #0E204E;
+	padding-right: 67px;
+	padding-top: 134px;
+}
+
+.headingImage {
+	width: 728px;
+	height: 620px;
+}
+
+.headingDescript {
+	widows: 423px;
+	height: 620px;
+	background-color: #0E204E;
+}
+
+.headingDescText {
+	color: #fff;
+	width: 250px;
+	height: 330px;
+	padding: 134px 58px 134px 60px;
+	font-family: 'Manrope regular';
+	font-size: 20px;
+	text-align: left;
+}
+
+
+
